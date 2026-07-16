@@ -53,3 +53,6 @@ logs/
 
 # Environment variables
 .env
+
+# Runtime-generated data (not seed data)
+server/data/restocking_orders.json
